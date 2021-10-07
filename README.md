@@ -1,5 +1,7 @@
 ## streaming
 
+### 0. Checkout master
+`git checkout master`
 ### 1. Install package dependencies
 `npm install` or `yarn`
 ### 2. Run the node server
